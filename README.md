@@ -1,2 +1,1 @@
-# GameBlackmarket
-GBM
+https://replit.com/@ArtuursSlissaan/GBM
